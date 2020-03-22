@@ -1,0 +1,23 @@
+/*Selector*/
+body
+/*Declaration*/
+
+{
+    /*property value pair*/
+    background-color: skyblue;
+}
+
+/*Class*/
+
+.aboutme {background-color: blanchedalmond;}
+
+
+/*ID*/
+
+#hello
+{
+    background-color: aquamarine;
+    margin: 5em;
+    padding-top: 30em;
+    border-color: black;
+}
